@@ -10,7 +10,7 @@
     "bootstrap": "^5.1.3",
     "datatables.net": "^1.11.5",
     "datatables.net-dt": "^1.11.5",
-    "jquery": "jquery@$jquery",
+    "jquery": "jquery",
     "jquery-react": "^1.0.0",
     "react": "$react",
     "react-bootstrap": "$react-bootstrap",
